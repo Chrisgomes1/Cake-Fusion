@@ -93,3 +93,13 @@ form{
 .newsletter{
   height: 300px;
 }
+footer{
+  height: 10vh;
+  background-color: black;
+  color: beige;
+  text-align: center;
+}
+footer p{
+  margin-top: 30px;
+  margin: 20px;
+}
