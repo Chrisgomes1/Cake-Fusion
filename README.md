@@ -1,4 +1,11 @@
-# Cake Fusion is a confectionery based in India specialising in fulfilling orders with love and delicious food.
+# Cake Fusion - Baking Goodies with Love 
+
+### We are a confectionery based in India specialised in fulfilling orders in baked goodies, cakes, snacks, and coffee.
+#### We cherish every moment in our lives. To make your celebrations memorabable here's presenting the worlds finest cakes at your doorstep. At Cake Fusion we bring together a huge assortment of customized cakes for our clients. Our expertise in baking has enabled us to deliver scrumptious and beautiful cakes.
+
+Order now!! 
+
+The repository is now open for open source contributions. Kindly follow the given guidelines. 
 
 ## Contribution Guidelines 🏗
 
